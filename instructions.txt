@@ -1,0 +1,16 @@
+You should use these fields in User and Post creation.
+Users should have the following attributes
+
+Id
+Name
+Email
+Password
+
+Posts should have the following Attributes. All fields are mandatory unless marked optional:
+
+Id
+Caption
+Image URL
+Posted Timestamp
+See the doc please.
+https://docs.google.com/document/d/e/2PACX-1vQj8gcLjjF4fnKvjJhTW0KrFAPfRVGLnCNrAssT33sRQ4JuL2gmj14GgXs_ETsMscjbG96qWt1eArwH/pub
